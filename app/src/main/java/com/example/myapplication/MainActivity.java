@@ -24,14 +24,5 @@ public class MainActivity extends AppCompatActivity {
                 finish();
             }
         });
-//        TextInputLayout signup = (TextInputLayout) findViewById(R.id.signuplink);
-//        signup.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent signup = new Intent(v.getContext(),SignupActivity.class);
-//                startActivity(signup);
-//                finish();
-//            }
-//        });
     }
 }
