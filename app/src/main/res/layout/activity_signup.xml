@@ -83,5 +83,31 @@
             android:textSize="20dp"
             android:textStyle="bold"
             />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="480dp"
+            android:layout_marginLeft="90dp"
+            android:text="Already have an account?"
+            android:textSize="15dp"
+            android:textColor="#000"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-medium">
+
+        </androidx.appcompat.widget.AppCompatTextView>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/loginlink"
+            android:layout_marginTop="500dp"
+            android:layout_marginLeft="120dp"
+            android:text="Login Now"
+            android:textSize="20dp"
+            android:textColor="#FF6747"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-medium">
+
+        </androidx.appcompat.widget.AppCompatTextView>
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>
