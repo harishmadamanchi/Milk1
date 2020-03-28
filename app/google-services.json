@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062915717796",
+    "firebase_url": "https://milkbook-f2759.firebaseio.com",
+    "project_id": "milkbook-f2759",
+    "storage_bucket": "milkbook-f2759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062915717796:android:0f82a759b687304b1a0431",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062915717796-89q26a5njss4kmdf0gsrh68jum6plfrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRanjDOWSG84kg0Xi587KTgS8qpJviyUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062915717796-89q26a5njss4kmdf0gsrh68jum6plfrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
